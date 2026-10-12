@@ -26,7 +26,7 @@ I value clean architecture, readable code, and collaboration to build software t
 ## Connect
 
 <p align="left">
-  <a href="https://royhendriks.com">
+  <a href="https://royhendriks.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfolio" />
   </a>
   <a href="https://github.com/royhendriks-dev">
