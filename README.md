@@ -22,7 +22,7 @@ I build web applications end to end, host them on my own Kubernetes cluster at h
   <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,java,nodejs,html,css,postgres,docker,kubernetes,githubactions,cloudflare,grafana,git,github&theme=dark" alt="Technology icons" />
 </p>
 
-| | |
+| Area | Technologies |
 |---|---|
 | **Frontend** | Angular 22, TypeScript, SCSS, Vitest |
 | **Backend** | Java 25, Quarkus 3 (LTS), REST APIs, PostgreSQL 18, Flyway |
